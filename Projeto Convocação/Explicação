@@ -22,3 +22,5 @@ Atualizar os dados periodicamente via script agendado.
 Adicionar métricas como minutos jogados, gols, ou clubes anteriores.
 
 Conectar o Power BI diretamente ao Python com Parquet ou Pandas DataFrames via Python Script Visual.
+
+🔗 Link do relatório: https://app.powerbi.com/links/uJVwiY_Jrt?ctid=c20f70cd-bcec-404d-9a5d-729541a79750&pbi_source=linkShare
