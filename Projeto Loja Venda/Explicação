@@ -1,0 +1,36 @@
+Este projeto tem como objetivo analisar as vendas de uma loja fictícia. Foi criada toda a estrutura de banco de dados no MySQL, com inserção de dados e criação de views analíticas, seguida de um processo de ETL com Python para exportar os dados como arquivos .csv, usados como fonte em um dashboard no Power BI.
+
+✅ Visão Geral
+🔧 Base criada do zero com SQL (DDL + DML)
+
+📊 Views criadas para consolidar dados de vendas
+
+🐍 Extração e transformação dos dados com Python
+
+📈 Visualização final com Power BI
+
+🌐 Publicação online do painel no Power BI Service
+
+🛠️ Tecnologias Utilizadas
+MySQL (Workbench e SQL puro)
+
+Python (pandas, matplotlib, seaborn, mysql-connector)
+
+Power BI Desktop
+
+Power BI Service
+
+📌 Habilidades Demonstradas
+Modelagem de banco de dados relacional
+
+Criação de views analíticas SQL
+
+ETL em Python com exportação de CSV
+
+Visualização de dados com Power BI e Python
+
+Publicação de dashboards online
+
+Organização modular de código
+
+🔗 Link do relatório: https://app.powerbi.com/links/sO-wLNRaSt?ctid=c20f70cd-bcec-404d-9a5d-729541a79750&pbi_source=linkShare
