@@ -56,7 +56,7 @@ def exibir_dashboard_1(Total_Venda_Cliente,Receita_categoria_produto):
 
     #Ajusta o layout para evitar sobreposição, reserva espaço para o título e exibe-o dashboard
     plt.tight_layout()
-    plt.show()
+    #plt.show() #Descomente para visualizar o gráfico diretamente em execução local
 
 def exibir_dashboard_2(Produtos_mais_vendidos, Venda_Mes):
     
@@ -66,4 +66,4 @@ def exibir_dashboard_2(Produtos_mais_vendidos, Venda_Mes):
     gerar_grafico_vendas_por_mes(Venda_Mes, axes[1])
 
     plt.tight_layout()
-    plt.show()
+    #plt.show() #Descomente para visualizar o gráfico diretamente em execução local
