@@ -41,6 +41,9 @@ def gerar_grafico_vendas_por_mes(Vendas_Mes, ax):
     ax.grid(True)
     ax.set_xticklabels(ax.get_xticklabels(), ha='right')
 
+'''Os gráficos estão sendo exibidos no Power BI, mas para fins de demonstração do conhecimento em Python, o código abaixo pode ser utilizado para exibir os gráficos localmente no código.
+Para tal, é só descomentar o comando plt.show() que está no final de cada função de exibir dashboard'''
+
 #Criando e exibindo um painel com os 4 gráficos
 def exibir_dashboard_1(Total_Venda_Cliente,Receita_categoria_produto):
 
