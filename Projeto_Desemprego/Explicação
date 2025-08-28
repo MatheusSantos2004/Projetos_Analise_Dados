@@ -1,1 +1,16 @@
+Projeto: Análise da Situação Empregatícia no Brasil (Agosto/2025)
 
+Este projeto nasceu da minha iniciativa pessoal de analisar a situação do mercado de trabalho no Brasil, um ano após o término da minha primeira experiência profissional, em 30/07/2024.
+
+Descrição do Projeto:
+
+Banco de Dados: Criação da base de dados no MySQL Workbench utilizando SQL para definir o database e inserir os dados.
+
+Processo ETL: Extração, transformação e carregamento dos dados utilizando Python, com exportação final para CSV.
+
+Análise e Visualização: Importação da base no Power BI, criação de colunas calculadas, gráficos e outras análises necessárias para compreender o cenário do mercado de trabalho.
+
+Apresentação: Desenvolvimento de uma apresentação em PowerPoint com os principais insights obtidos.
+
+Objetivo:
+Investigar e apresentar o panorama da empregabilidade no Brasil e no estado de São Paulo durante o período analisado, utilizando ferramentas de banco de dados, Python e Power BI para gerar insights acionáveis.
